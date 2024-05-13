@@ -1,12 +1,12 @@
-
+<div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Doyoung%20Github!&fontSize=90&fontColor=000000" />
-    
-  
+     </div>
+  <div align= "center">
  <h3>안녕하세요 개발자 김도영 입니다!</h3>   
 <a> 저는 성장 하기위해 꾸준히 고민하며 노력하는 개발자입니다!</a> 
-
-
-  <h3>🛠️ Tech Stacks </h3>
+  </div>
+<div align= "center">
+  <h1>🛠️ Tech Stacks </h1>
   <details>
   <summary>
    
@@ -27,6 +27,8 @@
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 </details>
+ </div>
+ <div align= "center">
 <details>
   <summary>
    <h2>:high_brightness:Tools</h2>
@@ -38,6 +40,8 @@
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
+ </div>
+  <div align= "center">
 <details>
   <summary>
    
@@ -57,6 +61,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoungking)
 
 </details>
+ </div>
    
     
 
