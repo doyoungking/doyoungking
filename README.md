@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**doyoungking/doyoungking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Doyoung&fontSize=90&fontColor=000000" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoungking)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<details>
+  <summary>
+    구현언어
+  </summary>
+  <br>
+  
+  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+</details>
+
