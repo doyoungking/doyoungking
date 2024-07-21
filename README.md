@@ -3,8 +3,15 @@
      </div>
   <div align= "center">
  <h3>안녕하세요 개발자 김도영 입니다!</h3>   
-<a> 저는 성장 하기위해 꾸준히 고민하며 노력하는 개발자입니다!</a> 
+     
+### 저는 성장 하기위해 꾸준히 고민하며 노력하는 개발자입니다!
+     
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoungking&show_icons=true&theme=dracula)
+     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyoungking&layout=compact&theme=dracula)
   </div>
+
+
 <div align= "center">
   <h1>🛠️ Tech Stacks </h1>
    
@@ -54,6 +61,8 @@
   
   <div align= "center">
 <h2> 🧑‍💻 Contact me </h2> <br> 
+
+### 📞 010-7688-8774
 <a href=mailto:kjy76882@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kjy76882@gmail.com"> </a>
      
 <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoyoungking%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
