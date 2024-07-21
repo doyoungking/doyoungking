@@ -19,20 +19,26 @@
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
-# Server
-아파치
 
  # Database& DB tool
- 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">            
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">            
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
 <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white">
+
+![sqldeveloper](https://img.shields.io/badge/sqldeveloper-%235391FE.svg?style=for-the-badge&logo=sqldeveloper&logoColor=white)
 
 # IDE
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 <img src="https://img.shields.io/badge/intellij IDEA-000000?style=for-the-badge&logo=intellij IDEA&logoColor=white">
 ![visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+# Server
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud-platform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 # 형상관리 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -40,10 +46,6 @@
 # API
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![KakaoMap](https://img.shields.io/badge/kakao_Map-ffcd00.svg?style=for-the-badge&logo=kakaomap&logoColor=000000)
-# 배포
-![Google Cloud](https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud-platform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 </div>
 
 
