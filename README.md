@@ -1,10 +1,16 @@
 <div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Doyoung%20Github!&fontSize=90&fontColor=000000" />
      </div>
-  <div align= "center">
- <h3>안녕하세요 개발자 김도영 입니다!</h3>   
+     <h3 align="center">:relaxed: About ME</h3>
+<p align="center"><img src="https://github.com/user-attachments/assets/be2781f8-7ab5-4390-bec2-50bfacdaf424" width="200" height="250"/></p>     
+
+
+<br>
+     <b>간략소개</b>:경영학과(4년)을 공부하고 it분야에 도전하게된 개발자 김도영입니다.web기반 개발 FullStack 개발을 희망하고있습니다.경영학과를 다니면서 팀워크와 원활한 커뮤니케이션 능력을 기를 수 있었습니다. 이를 통해 개발 과정에서도 팀원들과의 협력을 중시하며 프로젝트를 성공적으로 마무리하는 데 큰 도움이 될 것이라고 생각됩니다.실행력과 끈기를 바탕으로 성장하는 개발자가 되겠습니다.
      
-### 저는 성장 하기위해 꾸준히 고민하며 노력하는 개발자입니다!
+<b>경험</b>:졸업 후 휴먼IT교육센터의 디지털 컨버전스 중심 데이터 처리 SW 개발자 양성 과정을 통해 개발자가 되기 위한 역량을 갖추고 팀원들과 협업을 통해 Spring boot framework를 이용한 SNS 웹사이트를 만들어 배포까지 한 경험이 있습니다.
+  <div align= "center">
+
      
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doyoungking&show_icons=true&theme=dracula)
